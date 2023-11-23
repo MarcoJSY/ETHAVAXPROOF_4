@@ -80,6 +80,7 @@ Function for users to redeem NFT accessories by providing the accessory ID.
 2. Burn your own tokens using the burn function.
 3. Transfer tokens to another address using the transfer function.
 4. Check token balance using the balanceOf function.
+5. Redeem NFTs using the redeem function.
 
 ## Disclaimer
 This ERC20 token contract is for educational purposes only. Use it at your own risk. The contract may have security vulnerabilities, and it is not recommended for deployment on the mainnet without proper auditing.
